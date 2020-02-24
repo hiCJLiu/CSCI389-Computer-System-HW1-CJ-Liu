@@ -41,3 +41,4 @@ Data:
 4194304		218750
 8388608		587250
 
+![Graph](https://github.com/hiCJLiu/CSCI389-Computer-System-HW1-CJ-Liu/blob/master/Graph.png)
