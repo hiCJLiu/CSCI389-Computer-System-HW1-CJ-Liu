@@ -2,7 +2,7 @@
 Name: CJ Liu
 
 Benchmarks:
- Bytes		Time
+# Bytes		Time
 128			0.00610352
 256			0.00802612
 512			0.0152283
@@ -22,7 +22,7 @@ Benchmarks:
 8388608		774
 
 Data:
- Bytes		Time
+# Bytes		Time
 128			5.50461
 256			8.80432
 512			18.8599
